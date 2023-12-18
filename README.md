@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naj</h1>
-<h3 align="center">A passionate "student" from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **my self growth.**
+
+- 🔭 I’m currently working on **my self growth** and as a Software Engineer 
 
 
 <p align="left">
